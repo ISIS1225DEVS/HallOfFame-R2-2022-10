@@ -1,3 +1,3 @@
 # INTEGRANTES
 <!-- aqui van los nombres de los integrantes -->
-TODO
+Samuel Montañez Gil - 202014559
