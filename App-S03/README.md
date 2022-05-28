@@ -1,3 +1,3 @@
 # INTEGRANTES
 <!-- aqui van los nombres de los integrantes -->
-Samuel Montañez Gil - 202014559
+* Requerimiento 2 y 3: Samuel Montañez Gil

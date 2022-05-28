@@ -1,4 +1,4 @@
 # INTEGRANTES
-* Natalia Villegas Calderón - 202113370
 
-* Camilo Cortes Moreno - 202011908
+* Requerimiento 2: Natalia Villegas Calderón
+* Requerimiento 3: Camilo Cortes Moreno

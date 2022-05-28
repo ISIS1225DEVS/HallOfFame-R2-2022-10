@@ -1,3 +1,4 @@
 # INTEGRANTES
-<!-- aqui van los nombres de los integrantes -->
-TODO
+
+* Requerimiento 2: Santiago Velasco
+* Requerimiento 3: Pablo Giraldo

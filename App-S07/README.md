@@ -1,3 +1,4 @@
 # INTEGRANTES
-<!-- aqui van los nombres de los integrantes -->
-TODO
+
+* Requerimiento 2: bel Arismendy
+* Requerimiento 3: David Pérez
